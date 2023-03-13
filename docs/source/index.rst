@@ -24,6 +24,8 @@ Contents
 
    usage
    api
+   foo 
+   bar
 
 .. note:: The goal of the lab is not to learn how to deploy the tools, but to understand how they are used.
 
