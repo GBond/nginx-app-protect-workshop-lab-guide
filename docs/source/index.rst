@@ -21,7 +21,7 @@ Table of Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-
-   Module1
+   :maxdepth: 1
+   :numbered:
+   :glob:
 
