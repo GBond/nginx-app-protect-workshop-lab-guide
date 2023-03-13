@@ -21,9 +21,9 @@ Table of Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   module1/lab1
+   module1/lab1/lab*
    module2/lab2
    module3/lab3
    module4/lab4
