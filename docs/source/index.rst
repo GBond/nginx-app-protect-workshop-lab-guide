@@ -25,4 +25,8 @@ Table of Contents
    :numbered:
    :glob:
 
-   module*
+   module1/lab1
+   module2/lab2
+   module3/lab3
+   module4/lab4
+   module5/lab5
