@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NGINX App Protect - Hands-on Workshop'
+copyright = '2023, F5 Inc.'
+author = 'F5 / NGINX'
 
 release = '0.1'
 version = '0.1.0'
