@@ -23,8 +23,5 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   usage
-   api
-   foo 
-   bar
+   Module1
 
