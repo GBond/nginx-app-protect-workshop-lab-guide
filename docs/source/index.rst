@@ -17,7 +17,7 @@ Kubernetes
 Docker containers with docker registry
 
 
-Contents
+Table of Contents
 --------
 
 .. toctree::
