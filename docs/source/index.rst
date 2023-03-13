@@ -25,4 +25,4 @@ Table of Contents
    :numbered:
    :glob:
 
-module*/module*.rst
+   module*/module*.rst
