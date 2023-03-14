@@ -6,16 +6,15 @@ This lab has a multiple tools provided. There are several ways to accomplish eac
 .. note:: The videos may vary slightly from the lab guide- as it is much easier to update the guide than make new videos when there are minor changes. When in doubt, follow the lab guide. And please reach out to the authors if anything is not clear.
 
 
-**RDP to the Win10 Jump Host**
+**RDP to the Ubuntu Jump Host**
 
-Find the Win10 VM on the right-hand side of the UDF Systems.
+Find the Ubuntu VM on the right-hand side of the UDF Systems.
 
-.. image:: ../pictures/udf-jumphost.png
+.. image:: ../pictures/udf-rdp-ubuntu.png
    :alt: jumphost resolutions
    :align: center
    :scale: 90%
 
-We recommend a resolution slightly smaller than your desktop. 
 
 .. note:: You can edit the .rdp file that is downloaded and customize your settings. The file may automatically download to a temp location, depending on your browser settings.
 
@@ -46,7 +45,7 @@ Once you add it, you can use the direct SSH access link under each VM. Depending
    :align: center
    :scale: 80%
 
-**Using the Win10 Jump Host**
+**Using the Ubuntu Jump Host**
 
 Once on the jump host, you can quickly access the VMs from either vscode or Windows Terminal by right-clicking the icon on the taskbar.
 
