@@ -18,7 +18,6 @@ Find the Jump Server (Ubuntu VM) on the right-hand side of the UDF Systems and s
 
 .. note:: You can edit the .rdp file that is downloaded and customize your settings. The file may automatically download to a temp location, depending on your browser settings.
 
-.. note:: The default username is ``Administrator``. You must change it to ``user`` with the password ``user``
 
 **Direct Links to Web Tools**
 
@@ -38,7 +37,7 @@ Optional: If you have a public key for SSH, we recommend adding it to UDF. Instr
 
 Once you add it, you can use the direct SSH access link under each VM. Depending on your browser's settings, the link may open your SSH client automatically. Otherwise copy the entire ssh command and paste into your client. On Windows, we recommend `Windows Terminal <https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab>`_. Note that vscode does not work remotely, you must use the jump host if you prefer vscode.
 
-.. note:: Hostnames have been configured on all systems. Once you have SSHed into the rancher server (in the first exercise), you can ``ssh docker`` or ``ssh centos`` to get to the other VMs.
+.. note:: Hostnames have been configured on all systems. Once you have SSHed into the Jump Server, you can ``ssh docker`` or ``ssh centos`` to get to the other VMs.
 
 .. image:: ../pictures/udf-ssh-access.png
    :alt: Windows Terminal
@@ -47,7 +46,7 @@ Once you add it, you can use the direct SSH access link under each VM. Depending
 
 **Using the Ubuntu Jump Host**
 
-Once on the jump host, you can quickly access the VMs from either vscode or Windows Terminal by right-clicking the icon on the taskbar.
+Once on the jump host, you can quickly access the VMs from either vscode or Ubuntu Terminal by clicking the icon on the taskbar.
 
 .. note:: All the web applications that require passwords are saved in the browser, just click in the fields and they should populate.
 
@@ -66,10 +65,3 @@ Once on the jump host, you can quickly access the VMs from either vscode or Wind
 
 .. note:: The ``Pinned`` items in the vscode menu will bring you directly to the files intended for that system.
 
-**Demo video of the UDF RDP Jump Host**
-
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/2vrxd2TJcA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
