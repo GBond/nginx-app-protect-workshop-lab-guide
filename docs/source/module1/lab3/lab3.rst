@@ -8,7 +8,7 @@ This lab has a multiple tools provided. There are several ways to accomplish eac
 
 **RDP to the Ubuntu Jump Host**
 
-Find the Ubuntu VM on the right-hand side of the UDF Systems.
+Find the Jump Server (Ubuntu VM) on the right-hand side of the UDF Systems and select Access>XRDP.
 
 .. image:: ../pictures/udf-rdp-ubuntu.png
    :alt: jumphost resolutions
